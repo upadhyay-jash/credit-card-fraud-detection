@@ -1,8 +1,6 @@
 Credit Card Fraud Detection using Machine Learning
 This project focuses on detecting fraudulent credit card transactions using a highly imbalanced dataset. The primary goal was to build a classification model with high precision and recall, ensuring that fraudulent transactions are accurately flagged while minimizing false positives.
 
-(Note: Replace this placeholder with a real chart from your project, like the ROC Curve or a Confusion Matrix. This is highly effective for data science projects.)
-
 🎯 Project Goal
 To develop a robust machine learning model capable of identifying fraudulent credit card transactions with over 95% precision. This involved extensive exploratory data analysis (EDA), handling class imbalance, and fine-tuning model parameters.
 
