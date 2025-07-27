@@ -54,7 +54,7 @@ Jupyter Notebook or any Python IDE
 Installation & Execution
 Clone the repository:
 
-git clone https://github.com/upadhyay-jash/fraud-detection.git
+git clone https://github.com/upadhyay-jash/credit-card-fraud-detection.git
 cd fraud-detection
 
 Install dependencies:
